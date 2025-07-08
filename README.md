@@ -74,14 +74,19 @@ streamlit run com_robot.py
 
 📁 Project Structure
 
-companion-robot/
-│
-├── com_robot.py         # Main Streamlit application
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
-├── alarm.mpeg           # Optional alarm sound (convertible to WAV)
-└── assets/              # (Optional) For screenshots or resources
-📸 Screenshots (optional)
+## 📁 Project Structure
+
+    ```plaintext
+    companion-robot/
+    │
+    ├── com_robot.py          # Main Streamlit application
+    ├── requirements.txt      # Python dependencies
+    ├── README.md             # Project documentation
+    ├── alarm.mpeg            # Optional alarm sound (convertible to WAV)
+    └── assets/               # (Optional) For screenshots or resources
+
+
+📸 Screenshots 
 ![image](https://github.com/user-attachments/assets/933ad3cc-0128-4a80-a2b9-7c1f8b7717ba)
 
 
