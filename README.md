@@ -72,7 +72,6 @@ Example for Windows: C:\ffmpeg\bin
 Run the App
 streamlit run com_robot.py
 
-📁 Project Structure
 
 ## 📁 Project Structure
 
@@ -86,11 +85,13 @@ streamlit run com_robot.py
     └── assets/               # (Optional) For screenshots or resources
 
 
-📸 Screenshots 
+📸 Screenshot 
+
 ![image](https://github.com/user-attachments/assets/933ad3cc-0128-4a80-a2b9-7c1f8b7717ba)
 
 
 🙋‍♀️ About the Author
+
 Name: Faryal Gulzar
 Department: Computer Science
 University: Rawalpindi Women University
@@ -98,5 +99,6 @@ Email: faryalchaudhary9970@gmail.com
 GitHub: faryal786-fari
 
 📜 License
+
 This project is intended for academic and educational purposes only.
 Do not distribute or use commercially without permission.
