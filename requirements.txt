@@ -1,0 +1,15 @@
+streamlit
+streamlit-autorefresh
+numpy
+sounddevice
+soundfile
+scipy
+whisper
+transformers
+langdetect
+deep-translator
+gTTS
+text2emotion
+nltk
+pyttsx3
+torch
